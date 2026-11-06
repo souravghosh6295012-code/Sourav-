@@ -1,0 +1,6 @@
+{
+  "name": "BRIGHT DIGITAL",
+  "description": "Professional lightweight photography and videography portfolio app with private owner admin panel and public client gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
